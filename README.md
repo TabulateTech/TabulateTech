@@ -14,10 +14,10 @@
 </p>
 
 <ul>
-  <li>✔ Actualmente estoy desarrollando un controlador inteligente basado en aprendizaje por refuerzo para un robot móvil diferencial 📦🤖</li>
-  <li>✔ Estoy profundizando mis conocimientos en control dinámico, IA y robótica autónoma</li>
-  <li>✔ Me encantaría colaborar en proyectos de código abierto relacionados con robótica, control y machine learning</li>
-  <li>✔ Dato curioso: Aprendo cosas nuevas todo el tiempo... aunque a veces se almacenan mejor después de una buena siesta 😴💡</li>
+  <li> Actualmente estoy desarrollando un controlador inteligente basado en aprendizaje por refuerzo para un robot móvil diferencial 📦🤖</li>
+  <li> Estoy profundizando mis conocimientos en control dinámico, IA y robótica autónoma</li>
+  <li> Me encantaría colaborar en proyectos de código abierto relacionados con robótica, control y machine learning</li>
+  <li> Dato curioso: Aprendo cosas nuevas todo el tiempo... aunque a veces se almacenan mejor después de una buena siesta 😴💡</li>
 </ul>
 
 <div id="user-content-toc">
